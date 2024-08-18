@@ -1,0 +1,7 @@
+mlflow
+torch
+torch-vision
+tensorflow
+keras
+pandas
+numpy
